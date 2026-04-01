@@ -1,6 +1,6 @@
 # munnarshainy.github.io
 
-Personal portfolio site f
+Personal portfolio site
 
 🌐 **Live site:** [munnarshainy.github.io](https://munnarshainy.github.io)
 
