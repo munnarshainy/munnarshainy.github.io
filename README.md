@@ -1,6 +1,6 @@
 # munnarshainy.github.io
 
-Personal portfolio site. Thanks to Claude AI for helping me make it aesthetic.
+Personal portfolio site. Thanks to Claude AI for helping me make it look aesthetic.
 
 🌐 **Live site:** [munnarshainy.github.io](https://munnarshainy.github.io)
 
